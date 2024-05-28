@@ -1,4 +1,4 @@
-# ems
+# EMS
  Full Stack Employee Management System
 
 # Details
